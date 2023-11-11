@@ -20,7 +20,7 @@
 	"license": "UNLICENSED",
 	"dependencies": {
 		"@types/cors": "^2.8.13",
-		"axios": "^0.27.2",
+		"axios": "^1.6.0",
 		"cors": "^2.8.5",
 		"dotenv": "^16.0.3",
 		"express": "^4.18.1"
